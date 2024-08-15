@@ -1,12 +1,7 @@
 # Object-Oriented Programming
 
-Welcome to the Object-Oriented Programming (OOP) repository! This project demonstrates the principles of object-oriented programming through various examples and code implementations.
+Welcome to the Object-Oriented Programming (OOP) repository! This repository demonstrates the principles of object-oriented programming through various examples and code implementations.
 
-## Repository Structure
-
-- `src/`: Contains the source code files demonstrating different OOP concepts.
-- `examples/`: Includes example implementations showcasing the use of OOP principles.
-- `docs/`: Documentation and explanations of the concepts covered in the repository.
 
 ## Features
 
